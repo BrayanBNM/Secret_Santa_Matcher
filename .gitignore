@@ -1,0 +1,6 @@
+# Local secrets/config
+secret-config.js
+
+# Node/npm artifacts (if you later add tooling)
+node_modules/
+.DS_Store
